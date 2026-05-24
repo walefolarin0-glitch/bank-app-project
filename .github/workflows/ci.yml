@@ -17,4 +17,4 @@ jobs:
 
     - name: Docker Build
       run: |
-        docker build -t bank-backend:latest .
+        hostnamectl
